@@ -4,6 +4,6 @@ A reverse proxy server written in and configurable in Common Lisp.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/charJe/cl-yxorp.git |
-| commit  | 905fa3b                                    |
+| commit  | 3e7c7a2                                    |
 | systems | yxorp                                      |
 |---------+--------------------------------------------|
